@@ -1,0 +1,26 @@
+[
+  {
+    "Author": "Lunarris",
+    "Name": "Useless Player Info",
+    "InternalName": "UselessPlayerInfo",
+    "Punchline": "Ever wanted to see some useless info for no reason?",
+    "Description": "A simple program that shows some useless info on your character's jobs and location info. More coming soon most likely.",
+    "AssemblyVersion": "0.0.0.8",
+    "RepoUrl": "https://github.com/Lunarris/UselessPlayerInfo",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "housing",
+      "address",
+      "notes"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Lunarris/UselessPlayerInfo/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Lunarris/UselessPlayerInfo/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Lunarris/UselessPlayerInfo/releases/latest/download/latest.zip"
+  }
+]
