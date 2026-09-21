@@ -9,9 +9,9 @@
     "RepoUrl": "https://github.com/Lunarris/UselessPlayerInfo",
     "ApplicableVersion": "any",
     "Tags": [
-      "housing",
-      "address",
-      "notes"
+      "jobs",
+      "utility",
+      "social"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
