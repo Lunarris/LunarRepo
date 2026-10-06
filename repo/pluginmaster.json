@@ -29,7 +29,7 @@
     "InternalName": "ChatThree",
     "Punchline": "Chat Three re-worked for me! - ♪ A slightly new chat, forked and reworked ♪",
     "Description": "Chat 3 is a trimmed fork of ChatTwo for personal use. It is trimmed and made to be a lite runner. No upstream maintaining will be kept and will feature the same IPC.",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.8",
     "RepoUrl": "https://github.com/Lunarris/ChatThree",
     "ApplicableVersion": "any",
     "Tags": [
