@@ -22,5 +22,30 @@
     "DownloadLinkInstall": "https://github.com/Lunarris/UselessPlayerInfo/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Lunarris/UselessPlayerInfo/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Lunarris/UselessPlayerInfo/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "Lunarris",
+    "Name": "Chat Three",
+    "InternalName": "ChatThree",
+    "Punchline": "Chat Three re-worked for me! - ♪ A slightly new chat, forked and reworked ♪",
+    "Description": "Chat 3 is a trimmed fork of ChatTwo for personal use. It is trimmed and made to be a lite runner. No upstream maintaining will be kept and will feature the same IPC.",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Lunarris/ChatThree",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Social",
+      "UI",
+      "Chat",
+      "Replacement"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip"
   }
 ]
