@@ -7,6 +7,7 @@
     "Description": "A simple program that shows some useless info on your character's jobs and location info. More coming soon most likely.",
     "AssemblyVersion": "0.0.0.10",
     "RepoUrl": "https://github.com/Lunarris/UselessPlayerInfo",
+    "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/UselessInfoIcon.png",
     "ApplicableVersion": "any",
     "Tags": [
       "jobs",
@@ -31,6 +32,7 @@
     "Description": "Chat 3 is a trimmed fork of ChatTwo for personal use. It is trimmed and made to be a lite runner. No upstream maintaining will be kept and will feature the same IPC.",
     "AssemblyVersion": "1.0.8.0",
     "RepoUrl": "https://github.com/Lunarris/ChatThree",
+    "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/Chat3Icon.png",
     "ApplicableVersion": "any",
     "Tags": [
       "Social",
