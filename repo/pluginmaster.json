@@ -49,5 +49,30 @@
     "DownloadLinkInstall": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "Lunarris",
+    "Name": "VFX Hider",
+    "InternalName": "VFXHider",
+    "Punchline": "Cut down visual noise from other players' VFX.",
+    "Description": "Helps trim down the visual noise in venues or in heavily sync'd areas. Useful for large shells or if you have that one friend with an annoying dote.",
+    "AssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/Lunarris/VFXHider",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "vfx",
+      "social",
+      "venue",
+      "emote"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Lunarris/VFXHider/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Lunarris/VFXHider/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Lunarris/VFXHider/releases/latest/download/latest.zip"
   }
 ]
