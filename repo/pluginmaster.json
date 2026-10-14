@@ -56,7 +56,7 @@
     "InternalName": "VFXHider",
     "Punchline": "Cut down visual noise from other players' VFX.",
     "Description": "Helps trim down the visual noise in venues or in heavily sync'd areas. Useful for large shells or if you have that one friend with an annoying dote.",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "RepoUrl": "https://github.com/Lunarris/VFXHider",
     "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/VFXHider.png",
     "ApplicableVersion": "any",
