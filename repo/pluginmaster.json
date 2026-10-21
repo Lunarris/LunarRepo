@@ -34,8 +34,6 @@
     "Punchline": "Chat 3 re-worked for me! - ♪ A slightly new chat, forked and reworked ♪",
     "Description": "Chat 3 is a trimmed fork of ChatTwo for personal use. It is trimmed and made to be a lite runner. No upstream maintaining will be kept and will feature the same IPC.",
     "AssemblyVersion": "1.0.10.4",
-    "TestingAssemblyVersion": "1.0.10.4",
-    "TestingDalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Lunarris/ChatThree",
     "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/Chat3Icon.png",
     "ApplicableVersion": "any",
@@ -46,7 +44,7 @@
       "Replacement"
     ],
     "DalamudApiLevel": 15,
-    "LastUpdate": 1792530917,
+    "LastUpdate": 1792547419,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
@@ -54,7 +52,7 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Lunarris/ChatThree/releases/download/Testing/latest.zip"
+    "DownloadLinkTesting": "https://github.com/Lunarris/ChatThree/releases/latest/download/latest.zip"
   },
   {
     "Author": "Lunarris",
