@@ -26,11 +26,11 @@ Use the `raw.githubusercontent.com` link above, not the `github.com` page link.
 
 <!-- PLUGINS:START -->
 
-_Last updated: 2026-10-23 21:55 UTC_
+_Last updated: 2026-10-23 22:36 UTC_
 
 | Plugin | Description | Version | Testing | Updated |
 |---|---|---|---|---|
-| [Chat 3](https://github.com/Lunarris/ChatThree) | **Chat 3 re-worked for me! - ♪ A slightly new chat, forked and reworked ♪**<br>Chat 3 is a trimmed fork of ChatTwo for personal use. It is trimmed and made to be a lite runner. No upstream maintaining will be kept and will feature the same IPC. | 1.0.10.5 | - | 2026-10-21 |
+| [Chat 3](https://github.com/Lunarris/ChatThree) | **Chat 3 re-worked for me! - ♪ A slightly new chat, forked and reworked ♪**<br>Chat 3 is a trimmed fork of ChatTwo for personal use. It is trimmed and made to be a lite runner. No upstream maintaining will be kept and will feature the same IPC. | 1.0.10.5 | - | 2026-10-23 |
 | [Useless Player Info](https://github.com/Lunarris/UselessPlayerInfo) | **Ever wanted to see some useless info for no reason?**<br>A simple program that shows some useless info on your character's jobs and location info. More coming soon most likely. | 0.0.0.11 | 0.0.0.1 | 2026-10-06 |
 | [VFX Hider](https://github.com/Lunarris/VFXHider) | **Cut down visual noise from other players' VFX.**<br>Helps trim down the visual noise in venues or in heavily sync'd areas. Useful for large shells or if you have that one friend with an annoying dote. | 0.0.0.2 | - | 2026-10-14 |
 
