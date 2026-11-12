@@ -5,7 +5,7 @@
     "InternalName": "UselessPlayerInfo",
     "Punchline": "Ever wanted to see some useless info for no reason?",
     "Description": "A simple program that shows some useless info on your character's jobs and location info. More coming soon most likely.",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.0.1",
     "TestingDalamudApiLevel": 15,
     "RepoUrl": "https://github.com/Lunarris/UselessPlayerInfo",
     "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/UselessInfoIcon.png",
