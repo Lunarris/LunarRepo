@@ -80,5 +80,32 @@
     "DownloadLinkInstall": "https://github.com/Lunarris/VFXHider/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Lunarris/VFXHider/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/Lunarris/VFXHider/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "Lunarris",
+    "Name": "Altio",
+    "InternalName": "Altio",
+    "Punchline": "Dialogue and a light editor for GPose compatible with Brio.",
+    "Description": "Altio adds game-styled dialogue boxes and speech bubbles you can place on screen and edits the lights you make in Brio or the GPose menu.",
+    "AssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/Lunarris/Altio",
+    "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/AltioIcon.png",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "gpose",
+      "brio",
+      "dialogue",
+      "lighting",
+      "cutscene"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Lunarris/Altio/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Lunarris/Altio/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Lunarris/Altio/releases/latest/download/latest.zip"
   }
 ]
